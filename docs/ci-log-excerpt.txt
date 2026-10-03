@@ -1,0 +1,18 @@
+2026-10-03T07:14:09.5325495Z found 0 vulnerabilities
+2026-10-03T07:14:09.9981351Z found 0 vulnerabilities
+2026-10-03T07:14:10.7262104Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.
+2026-10-03T07:14:11.6327575Z Static safety/syntax checks passed (21 JavaScript files). This does not replace browser or security review.
+2026-10-03T07:14:12.1295698Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.
+2026-10-03T07:14:38.9128021Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.
+2026-10-03T07:14:40.9537142Z PASS replacement-fails
+2026-10-03T07:14:41.6800671Z PASS retain-all-passes
+2026-10-03T07:14:42.3942132Z PASS declared-subset-passes
+2026-10-03T07:14:43.1118704Z PASS unrelated-negative-control
+2026-10-03T07:14:47.6731593Z UI desktop/mobile, worker/error/reset/retention/download/no-off-origin checks passed
+2026-10-03T07:14:48.1970002Z (node:3347) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+2026-10-03T07:14:48.8811154Z (node:3360) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+2026-10-03T07:14:10.8932380Z ℹ tests 117
+2026-10-03T07:14:10.8932595Z ℹ suites 0
+2026-10-03T07:14:10.8932808Z ℹ pass 117
+2026-10-03T07:14:10.8933017Z ℹ fail 0
+2026-10-03T07:14:10.8933913Z ℹ duration_ms 702.71739

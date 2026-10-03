@@ -65,7 +65,9 @@ npm audit --audit-level=moderate
 - 実 manifest と測定 inventory の再現性、loopback サーバーの実 HTTP 応答と SHA-256 を照合
 - CI には、開いたままの旧タブで lazy import を押し、置換失敗・保持成功・無関係な変更の負の対照を確認する Playwright gate を用意
 
-ブラウザ試験は通常の `npm test` に含めず、レビュー後の CI でだけ実行します。**現時点の実行結果と未実施項目は [VERIFICATION](docs/VERIFICATION.md) を参照してください。** browser gate が通るまでは完成済みの実証とは扱いません。
+ブラウザ試験は通常の `npm test` に含めず、レビュー後の CI で実行します。**[対象コミットの CI](https://github.com/Masanori-Spec/release-rehearsal/actions/runs/37105665374) で117テスト、4つの旧タブ fixture ケース、desktop/mobile UI 試験が通過した、公開プロトタイプです。**
+
+CI のテキスト結果は確認済みです。一方、artifact 配布先へのアクセスがブロックされたため、スクリーンショットの目視確認と raw network JSON の別途確認は行えていません。自動試験の通過を、見た目の完成・セキュリティ証明・本番運用の準備完了とは扱いません。[検証範囲と未確認事項](docs/VERIFICATION.md) を参照してください。
 
 ## 既存製品との差分と限界
 

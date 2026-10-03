@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "status": "automatically-tested-public-prototype",
+  "repository": "https://github.com/Masanori-Spec/release-rehearsal",
+  "testedSourceCommit": "84ebfbd7b6ddf19de6bbaa0cd1edd654e46c7ae4",
+  "testedSourceTree": "a5c60e3eff788cb7dc84c12ff1859524c69868df",
+  "sourceBlobVerification": {
+    "fileCount": 52,
+    "allMatch": true
+  },
+  "run": {
+    "id": 37105665374,
+    "url": "https://github.com/Masanori-Spec/release-rehearsal/actions/runs/37105665374",
+    "job": 111153556846,
+    "conclusion": "success"
+  },
+  "verifiedTextChecks": [
+    "2026-10-03T07:14:09.5325495Z found 0 vulnerabilities",
+    "2026-10-03T07:14:09.9981351Z found 0 vulnerabilities",
+    "2026-10-03T07:14:10.7262104Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.",
+    "2026-10-03T07:14:10.8932380Z ℹ tests 117",
+    "2026-10-03T07:14:10.8932595Z ℹ suites 0",
+    "2026-10-03T07:14:10.8932808Z ℹ pass 117",
+    "2026-10-03T07:14:10.8933017Z ℹ fail 0",
+    "2026-10-03T07:14:10.8933913Z ℹ duration_ms 702.71739",
+    "2026-10-03T07:14:11.6327575Z Static safety/syntax checks passed (21 JavaScript files). This does not replace browser or security review.",
+    "2026-10-03T07:14:12.1295698Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.",
+    "2026-10-03T07:14:38.9128021Z Verified official Vite 8.3.2 fixtures: old, new, unrelated; 5 old lazy dependencies, 5 changed paths.",
+    "2026-10-03T07:14:40.9537142Z PASS replacement-fails",
+    "2026-10-03T07:14:41.6800671Z PASS retain-all-passes",
+    "2026-10-03T07:14:42.3942132Z PASS declared-subset-passes",
+    "2026-10-03T07:14:43.1118704Z PASS unrelated-negative-control",
+    "2026-10-03T07:14:47.6731593Z UI desktop/mobile, worker/error/reset/retention/download/no-off-origin checks passed"
+  ],
+  "artifact": {
+    "name": "browser-evidence",
+    "id": 11267663300,
+    "uiUrl": "https://github.com/Masanori-Spec/release-rehearsal/actions/runs/37105665374/artifacts/11267663300",
+    "size": 1492931,
+    "sha256": "c0728e90bf46cc5badeb8a2843d5f63a85e1a6bf8233c6a883efe8693afca75c",
+    "filesReportedByUpload": 10,
+    "expires": "2026-10-17T07:14:47Z",
+    "metadataSource": "GitHub run and artifact-upload text; ZIP not downloaded; SHA-256 not independently recomputed"
+  },
+  "unperformed": {
+    "manualScreenshotInspection": true,
+    "rawNetworkJsonInspection": true,
+    "reason": "Artifact download host blocked access. No bypass or alternate rehosting was attempted."
+  },
+  "scope": "Fixed Vite fixture model and asserted browser UI flows only. No production readiness, deployment safety, security audit, or general runtime prediction claim."
+}
