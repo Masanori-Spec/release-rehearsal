@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "viteVersion": "8.3.2",
+  "fixtureEntry": "index.html",
+  "lazyEntry": "src/lazy.js",
+  "source": "fixed in-repository fixture source; official Vite build()",
+  "inventory": "SHA-256 and byte lengths measured from emitted files, including index.html and .vite/manifest.json",
+  "lazyClosure": [
+    "assets/badge-C1FsyfP3.svg",
+    "assets/lazy-DV-b8Png.css",
+    "assets/lazy-DygE2f-b.js",
+    "assets/shared-CerBZT9l.js",
+    "assets/texture-BHIGXo2Q.svg"
+  ],
+  "removedLazyFiles": [
+    "assets/badge-C1FsyfP3.svg",
+    "assets/lazy-DV-b8Png.css",
+    "assets/lazy-DygE2f-b.js",
+    "assets/shared-CerBZT9l.js",
+    "assets/texture-BHIGXo2Q.svg"
+  ],
+  "negativeControl": "Only shell text changes; every old lazy-closure URL has identical bytes"
+}

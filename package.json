@@ -1,0 +1,21 @@
+{
+  "name": "release-rehearsal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rehearse static-release retention from Vite manifests and content inventories",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "test": "node --test tests/*.test.js fixtures/*.test.mjs",
+    "check": "node scripts/check.mjs",
+    "start": "node scripts/serve.mjs",
+    "fixture:build": "node scripts/fixture-build.mjs",
+    "fixture:verify": "node scripts/fixture-build.mjs --verify",
+    "fixture:browser": "node scripts/fixture-browser-test.mjs",
+    "browser:test": "node scripts/browser-test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0",
+    "vite": "8.3.2"
+  }
+}

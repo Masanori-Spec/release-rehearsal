@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "path": ".vite/manifest.json",
+      "bytes": 1073,
+      "sha256": "69dd51c18947a80bb74fb70f2c59abcf196227890d8854ce4e8ac19e4b01fd03"
+    },
+    {
+      "path": "assets/badge-C1FsyfP3.svg",
+      "bytes": 213,
+      "sha256": "f30ac84f96c87009b99f12a6ff0a4891be11395cd5fc4833bde80f8644c15737"
+    },
+    {
+      "path": "assets/index-ArCBp-TE.css",
+      "bytes": 151,
+      "sha256": "c669baf38b9430f0bb3f45e02b90fb0030739b9e88f4989e4c3dcc842ed8faf9"
+    },
+    {
+      "path": "assets/index-ySCLXiRg.js",
+      "bytes": 2935,
+      "sha256": "50b29f0d4e15a98303f80847c1ab6b7dd5e3714e0adb272e8c031292666fbf9a"
+    },
+    {
+      "path": "assets/lazy-DV-b8Png.css",
+      "bytes": 88,
+      "sha256": "fab2568f33244347cf97e62484ff31d283e1b6c75cd09bad496235d1336d9356"
+    },
+    {
+      "path": "assets/lazy-DygE2f-b.js",
+      "bytes": 274,
+      "sha256": "e9a0b09370f3af629689c5f87cd4d625d4ed4cc054c9a079c3a738bfd0348997"
+    },
+    {
+      "path": "assets/other-uHCMan-e.js",
+      "bytes": 111,
+      "sha256": "7a256739ae45305fdc647b4530aff3c42c382f5c1f663e1cbc6265b05283b61e"
+    },
+    {
+      "path": "assets/shared-CerBZT9l.js",
+      "bytes": 44,
+      "sha256": "89cce3b04db37f6f98591165a87f1d3edc10f3153a4b6264323bee32b07cea45"
+    },
+    {
+      "path": "assets/texture-BHIGXo2Q.svg",
+      "bytes": 155,
+      "sha256": "0dc0ddfc3a8a2d86e77b7e69de5430562c77478f2dc83c2bdddd0423f03c8af3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 647,
+      "sha256": "22f15ddc86448cbec02a51b06637150e2de6b9b86485fe280012f7d2981f43b1"
+    }
+  ]
+}

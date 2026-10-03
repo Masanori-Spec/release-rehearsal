@@ -1,0 +1,52 @@
+{
+  "_shared-CerBZT9l.js": {
+    "file": "assets/shared-CerBZT9l.js",
+    "name": "shared"
+  },
+  "index.html": {
+    "file": "assets/index-SiT5UIVc.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/lazy.js",
+      "src/other.js"
+    ],
+    "css": [
+      "assets/index-ArCBp-TE.css"
+    ]
+  },
+  "src/badge.svg": {
+    "file": "assets/badge-C1FsyfP3.svg",
+    "src": "src/badge.svg"
+  },
+  "src/lazy.js": {
+    "file": "assets/lazy-DygE2f-b.js",
+    "name": "lazy",
+    "src": "src/lazy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_shared-CerBZT9l.js"
+    ],
+    "css": [
+      "assets/lazy-DV-b8Png.css"
+    ],
+    "assets": [
+      "assets/badge-C1FsyfP3.svg",
+      "assets/texture-BHIGXo2Q.svg"
+    ]
+  },
+  "src/other.js": {
+    "file": "assets/other-uHCMan-e.js",
+    "name": "other",
+    "src": "src/other.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_shared-CerBZT9l.js"
+    ]
+  },
+  "src/texture.svg": {
+    "file": "assets/texture-BHIGXo2Q.svg",
+    "src": "src/texture.svg"
+  }
+}

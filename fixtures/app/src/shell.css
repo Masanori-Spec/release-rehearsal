@@ -1,0 +1,4 @@
+:root { font-family: system-ui, sans-serif; }
+body { margin: 2rem; }
+button { padding: .6rem 1rem; margin-right: .5rem; }
+img { width: 32px; height: 32px; vertical-align: middle; }
